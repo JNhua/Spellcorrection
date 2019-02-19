@@ -1,0 +1,5 @@
+DICT_PATH= 	/home/king/cppjieba/cppjieba/dict/jieba.dict.utf8
+HMM_PATH= 	/home/king/cppjieba/cppjieba/dict/hmm_model.utf8
+USER_DICT_PATH= /home/king/cppjieba/cppjieba/dict/user.dict.utf8
+IDF_PATH= 	/home/king/cppjieba/cppjieba/dict/idf.utf8
+STOP_WORD_PATH= /home/king/cppjieba/cppjieba/dict/stop_words.utf8

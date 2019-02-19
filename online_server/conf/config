@@ -1,0 +1,10 @@
+ip		192.168.5.120
+port		8686
+thread_num	4
+task_size       512
+init_time	2
+inval_time	5
+dict	/home/king/wangdao/git_repository/spellcorrection/online_server/data/english.dat
+cn_dict	/home/king/wangdao/git_repository/spellcorrection/online_server/data/chinese.dat
+index	/home/king/wangdao/git_repository/spellcorrection/online_server/data/index.dat
+cache	/home/king/wangdao/git_repository/spellcorrection/online_server/data/cache.dat
